@@ -29,7 +29,7 @@ This project develops and compares multiple machine learning and deep learning m
 
 ### 2. Installation
 ```
-git clone YOUR_REPO_URL
+git clone https://github.com/Viz2202/Ensemble-Model-Training-for-epileptic-seizure-detection.git
 cd YOUR_PROJECT_FOLDER
 pip install -r requirements.txt
 ```
